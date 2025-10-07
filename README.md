@@ -68,7 +68,7 @@ src/
 
 ```bash
 # 1️⃣ Clonar el repositorio
-git clone https://github.com/Cristian-ZXZ/simulacroNode.git
+git clone https://github.com/Cristian-ZXZ/SimulacroNode.1.git
 
 # 2️⃣ Entrar a la carpeta
 cd simulacroNode
